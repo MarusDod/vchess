@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+          "name": "trpc",
+            "path": "../server",
+        },
+        {
+          "name": "vite",
+            "path": "../frontend"
+        },
+    ],
+    "settings": {
+        "files.exclude": {
+            "node_modules/": true,
+        },
+            "editor.formatOnSave": true,
+            "editor.tabSize": 2,
+            "prettier.singleQuote": true,
+    },
+}
